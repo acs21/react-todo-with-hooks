@@ -1,0 +1,14 @@
+.todo-list-table {
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid #ccc2c2;
+}
+
+.todo-list-table th {
+  background-color: #e2e2e2;
+  padding: 0.25rem 1rem;
+}
+
+.todo-sort-column {
+  cursor: pointer;
+}
